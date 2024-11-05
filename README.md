@@ -24,11 +24,11 @@ LegalTech es un proyecto diseñado para ayudar a los ciudadanos chilenos a enten
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/iJass21/LegalTech-FrontEnd.git
    ```
 2. Navega al directorio del proyecto:
    ```bash
-   cd tu-repositorio
+   cd LegalTech-FrontEnd
    ```
 3. Instala las dependencias necesarias:
    ```bash
